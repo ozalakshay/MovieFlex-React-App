@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MovieFlex-React-App/static/css/main.58e1373c.css",
+    "main.js": "/MovieFlex-React-App/static/js/main.61a32703.js",
+    "index.html": "/MovieFlex-React-App/index.html",
+    "static/media/search.svg": "/MovieFlex-React-App/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.58e1373c.css.map": "/MovieFlex-React-App/static/css/main.58e1373c.css.map",
+    "main.61a32703.js.map": "/MovieFlex-React-App/static/js/main.61a32703.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58e1373c.css",
+    "static/js/main.61a32703.js"
+  ]
+}
